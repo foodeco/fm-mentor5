@@ -98,6 +98,7 @@ main {
 }
 .card div div div:first-child {
     color: var(--White);
+    padding-bottom: 0.3em;
 }
 .card div div div:last-child {
     color: var(--Soft-Pink);
@@ -212,9 +213,6 @@ main {
     .card > div,
     .card p {
         margin: 1.5em;
-    }
-    .card div div:nth-child(2) div:first-child {
-        padding-bottom: 0.3em;
     }
     .card p {
         text-align: start;
